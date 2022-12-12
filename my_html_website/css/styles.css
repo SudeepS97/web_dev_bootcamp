@@ -1,0 +1,51 @@
+/* TAG SELECTORS */
+
+body {
+    background-color: #EFF5F5;
+    font-family: Calibri, sans-serif
+}
+
+h1 {
+    color: #EB6440;
+    font-family: Calibri, sans-serif
+}
+
+h2 {
+    color: #497174;
+    font-family: Calibri, sans-serif
+}
+
+h3 {
+    color: #497174;
+    font-family: Calibri, sans-serif
+}
+
+hr {
+    background-color: #EFF5F5;
+    border-style: double none none none;
+    height: 0px;
+    border-width: 8px;
+    border-color: #D6E4E5;
+    width: 98%;
+}
+
+img:hover {
+    background-color: lightcoral;
+}
+
+/* CLASS SELECTORS */
+
+.brocolli {
+    background-color: gainsboro;
+}
+
+.circle {
+    border-radius: 100%;
+}
+
+
+/* ID SELECTORS */
+
+#heading {
+    color: green;
+}
