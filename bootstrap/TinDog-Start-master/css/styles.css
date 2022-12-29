@@ -1,14 +1,20 @@
-h1 {
+body {
     font-family: "Montserrat";
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-weight: 900;
-    font-size: 3.5rem;
     line-height: 1.5;
 }
 
-h3 {
-    font-family: "Montserrat";
-    font-weight: 900;
-    font-size: 1.5rem;
+h2 {
+    font-size: 3rem;
 }
 
 p {
@@ -16,17 +22,13 @@ p {
     font-weight: 200;
 }
 
-#title {
-    background-color: #ff4c68;
-    color: white;
-}
 
 .container-fluid {
-    padding: 3% 15%
+    padding: 7% 15%;
 }
 
-body {
-    font-family: "Montserrat";
+.big-heading {
+    font-size: 3.5rem;
 }
 
 /* Nav Bar */
@@ -51,6 +53,18 @@ body {
 
 }
 
+/* Title */
+
+#title {
+    background-color: #ff4c68;
+    color: white;
+    text-align: left;
+}
+
+#title .container-fluid {
+    padding: 3% 15% 7%;
+}
+
 /* Download Buttons */
 
 .download-btn {
@@ -60,18 +74,32 @@ body {
 /* Images */
 
 .title-img {
-    width: 60%;
+    width: 30%;
     transform: rotate(25deg);
+    position: absolute;
+    padding-right: 5%;
+}
+
+@media (max-width: 1028px) {
+    #title {
+        text-align: center;
+    }
+
+    .title-img {
+        position: static;
+        transform: rotate(0);
+        width: 60%;
+    }
 }
 
 /* Features */
 
 #features {
-    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
 }
 
 .feature-box {
-    text-align: center;
     padding: 5%;
 }
 
@@ -82,4 +110,69 @@ body {
 
 .icon:hover {
     color: #ff4c68;
+}
+
+/* Testimonials */
+
+#testimonials {
+    background-color: #ef8172;
+    color: #fff;
+}
+
+.test-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item {}
+
+/* Press */
+
+#press {
+    background-color: #ef8172;
+    padding-bottom: 3%;
+}
+
+.press-img {
+    width: 15%;
+    margin: 20px 20px 15px;
+}
+
+/* Pricing */
+
+#pricing {
+    padding: 100px;
+}
+
+.price-col {
+    padding: 3% 2%;
+}
+
+/* CTA */
+
+#cta {
+    background-color: #ff4c68;
+}
+
+.cta-text {
+    color: #fff;
+}
+
+/* Footer */
+
+#footer {
+    background-color: #fff;
+}
+
+.footer-icon {
+    margin: 0 1% 2%;
+}
+
+.footer-icon:hover {
+    color: #ff4c68;
+}
+
+#footer .container-fluid {
+    padding: 7% 15% 0%;
 }
