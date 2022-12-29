@@ -55,13 +55,9 @@ p {
 
 /* Title */
 
-#title {
-    background-color: #ff4c68;
+#title .container-fluid {
     color: white;
     text-align: left;
-}
-
-#title .container-fluid {
     padding: 3% 15% 7%;
 }
 
@@ -95,7 +91,6 @@ p {
 /* Features */
 
 #features {
-    background-color: #fff;
     position: relative;
 }
 
@@ -115,7 +110,6 @@ p {
 /* Testimonials */
 
 #testimonials {
-    background-color: #ef8172;
     color: #fff;
 }
 
@@ -130,7 +124,6 @@ p {
 /* Press */
 
 #press {
-    background-color: #ef8172;
     padding-bottom: 3%;
 }
 
@@ -151,19 +144,13 @@ p {
 
 /* CTA */
 
-#cta {
-    background-color: #ff4c68;
-}
-
 .cta-text {
     color: #fff;
 }
 
 /* Footer */
 
-#footer {
-    background-color: #fff;
-}
+#footer {}
 
 .footer-icon {
     margin: 0 1% 2%;
@@ -175,4 +162,18 @@ p {
 
 #footer .container-fluid {
     padding: 7% 15% 0%;
+}
+
+/* Backgrounds */
+
+.color-section {
+    background-color: #ff4c68;
+}
+
+.color-section-2 {
+    background-color: #ef8172;
+}
+
+.white-section {
+    background-color: #fff;
 }
