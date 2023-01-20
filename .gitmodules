@@ -1,0 +1,3 @@
+[submodule "newsletter_signup"]
+	path = newsletter_signup
+	url = https://github.com/SudeepS97/newsletter_signup
