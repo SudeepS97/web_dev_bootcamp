@@ -1,0 +1,19 @@
+<%- include('header') -%> 
+    <h1 class="title-date">It's <%= kindOfDay %>!</h1>
+    <div class="box" id="heading">
+        <h1><%= listTitle %> </h2>
+    </div>
+    <div class="box">   
+        <% for (i=0; i<tasks.length; i++) { %> 
+            <div class="item">
+                <input type="checkbox">
+                <p><%= tasks[i] %></p>
+            </div>
+        <% } %> 
+
+        <form action="/" method="post" clas="item">
+            <input type="text" name="newTask" placeholder="New Task" autocomplete="off">
+            <button type="submit" name="list" value="<%=listTitle%>">+</button>
+        </form>
+    </div>
+<%- include('footer') -%> 
