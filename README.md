@@ -10,3 +10,4 @@ Projects:
 - Simon Game (completed 1/11/2023): [https://sudeeps97.github.io/web_dev_bootcamp/simon_game/](https://sudeeps97.github.io/web_dev_bootcamp/simon_game/)
 - Addition & BMI Calculator (completed 1/11/2023): [https://sudeeps97.github.io/web_dev_bootcamp/calculator/](https://sudeeps97.github.io/web_dev_bootcamp/calculator/)
 - Newsletter Signup (completed 1/18/2023): [https://newsletter-signup-936y.onrender.com](https://newsletter-signup-936y.onrender.com)
+- To Do List (completed 1/23/2023): [https://sudeeps97.github.io/web_dev_bootcamp/todolist_v1/](https://sudeeps97.github.io/web_dev_bootcamp/todolist_v1/)
