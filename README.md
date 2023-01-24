@@ -5,7 +5,9 @@ Listing my projects as I complete them and add new technologies to the stack.
 
 ## Projects:
 ### HTML
-- My HTML Website (completed 12/7/2022): [https://sudeeps97.github.io/web_dev_bootcamp/my_html_website/](https://sudeeps97.github.io/web_dev_bootcamp/my_html_website/)
+| Project | Completion Date | Link |
+|---|---|---|
+| My HTML Website | 12/7/2022 | [https://sudeeps97.github.io/web_dev_bootcamp/my_html_website/](https://sudeeps97.github.io/web_dev_bootcamp/my_html_website/) |
 ### CSS
 - My CSS Website (completed 12/12/2022): [https://sudeeps97.github.io/web_dev_bootcamp/my_css_site/](https://sudeeps97.github.io/web_dev_bootcamp/my_css_site/)
 ### Bootstrap
