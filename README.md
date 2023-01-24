@@ -13,7 +13,9 @@ Listing my projects as I complete them and add new technologies to the stack.
 |---|---|---|
 | My CSS Website | 12/12/2022 | [https://sudeeps97.github.io/web_dev_bootcamp/my_css_site/](https://sudeeps97.github.io/web_dev_bootcamp/my_css_site/) |
 ### Bootstrap
-- My Bootstrap Website (completed 12/29/2022): [https://sudeeps97.github.io/web_dev_bootcamp/bootstrap/TinDog-Start-master/](https://sudeeps97.github.io/web_dev_bootcamp/bootstrap/TinDog-Start-master/)
+| Project | Completion Date | Link |
+|---|---|---|
+| My Bootstrap Website | 12/29/2022 | [https://sudeeps97.github.io/web_dev_bootcamp/bootstrap/TinDog-Start-master/](https://sudeeps97.github.io/web_dev_bootcamp/bootstrap/TinDog-Start-master/) |
 ### Javascript
 | Project | Completion Date | Link |
 |---|---|---|
