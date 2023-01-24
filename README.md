@@ -30,8 +30,8 @@ Listing my projects as I complete them and add new technologies to the stack.
 ### Node, Express
 | Project | Completion Date | Link |
 |---|---|---|
-| Newsletter Signup | 1/18/2023 | [https://newsletter-signup-936y.onrender.com](https://newsletter-signup-936y.onrender.com) |
 | Addition & BMI Calculator | 1/11/2023 | [https://github.com/SudeepS97/web_dev_bootcamp/tree/main/calculator](https://github.com/SudeepS97/web_dev_bootcamp/tree/main/calculator) |
+| Newsletter Signup | 1/18/2023 | [https://newsletter-signup-936y.onrender.com](https://newsletter-signup-936y.onrender.com) |
 
 ### EJS
 | Project | Completion Date | Link |
