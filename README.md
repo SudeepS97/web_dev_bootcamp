@@ -1,9 +1,9 @@
 # web_dev_bootcamp
-## Code from The Complete Web Development Bootcamp by Angela Yu on Udemy
+Code from The Complete Web Development Bootcamp by Angela Yu on Udemy.
 Listing my projects as I complete them and add new technologies to the stack.
 
 
-Projects:
+## Projects:
 ### HTML
 - My HTML Website (completed 12/7/2022): [https://sudeeps97.github.io/web_dev_bootcamp/my_html_website/](https://sudeeps97.github.io/web_dev_bootcamp/my_html_website/)
 ### CSS
