@@ -4,3 +4,6 @@
 [submodule "blog_website"]
 	path = blog_website
 	url = https://github.com/SudeepS97/blog_website.git
+[submodule "todo_list"]
+	path = todo_list
+	url = https://github.com/SudeepS97/todo_list.git
