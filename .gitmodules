@@ -7,3 +7,6 @@
 [submodule "todo_list"]
 	path = todo_list
 	url = https://github.com/SudeepS97/todo_list.git
+[submodule "blog_website_with_db"]
+	path = blog_website_with_db
+	url = https://github.com/SudeepS97/blog_website_with_db.git
