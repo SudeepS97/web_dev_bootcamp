@@ -8,7 +8,7 @@ app.set('view engine', 'ejs');
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static("public"));
 
-const uri = "mongodb+srv://sudeepsw97:eTnuTcF58m67eAR8@cluster0.3aijqiy.mongodb.net/test"
+const uri = process.env.MONGO_URI
 const client = new MongoClient(uri);
 const db = "wikiDB"
 const collection = "articles"
