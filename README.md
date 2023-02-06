@@ -43,4 +43,9 @@ Listing my projects as I complete them and add new technologies to the stack.
 | Project | Completion Date | Link |
 |---|---|---|
 | To Do List | 1/24/2023 | [https://todo-list-f2hj.onrender.com](https://todo-list-f2hj.onrender.com) |
-| Blog Website | 1/29/2023 | [https://blog-with-db-865x.onrender.com](https://blog-with-db-865x.onrender.com) |
+| Blog Website | 1/29/2023 | [https://blog-with-db-865x.onrender.com](https://blog-with-db-865x.onrender.com) |https://github.com/SudeepS97/web_dev_bootcamp/tree/main/_testing/secrets
+
+### Authentication & Security (md5, bcrypt, passport, etc;)
+| Project | Completion Date | Link |
+|---|---|---|
+| Secrets | 2/6/2023 | [https://github.com/SudeepS97/web_dev_bootcamp/tree/main/_testing/secrets](https://github.com/SudeepS97/web_dev_bootcamp/tree/main/_testing/secrets) |
