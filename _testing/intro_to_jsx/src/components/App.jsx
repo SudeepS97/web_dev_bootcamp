@@ -1,7 +1,7 @@
 import React from "react"
 import ReactDOM from "react-dom"
-import Heading from "./components/Heading"
-import List from "./components/List"
+import Heading from "./Heading"
+import List from "./List"
 
 const name = "Sudeep"
 const time = new Date().getHours()
@@ -24,16 +24,16 @@ if (time < 12) {
 }
 
 function App() {
-    return (<div>
-        <Heading />
-        <h1 className="heading" style={customStyle}>Good {ToD}!</h1>
-        <br></br>
-        <List />
-        <br></br>
-        <p contentEditable='true' spellCheck='false'>Created by {name}</p>
-        <p>Copyright {currYear}</p>
-    </div>,
-        document.getElementById("root"))
+    return (
+        <div>
+            <Heading />
+            <h1 className="heading" style={customStyle}>Good {ToD}!</h1>
+            <br></br>
+            <List />
+            <br></br>
+            <p contentEditable='true' spellCheck='false'>Created by {name}</p>
+            <p>Copyright {currYear}</p>
+        </div>)
 };
 
 export default App
